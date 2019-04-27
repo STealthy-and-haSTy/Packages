@@ -4,7 +4,7 @@
 	<key>name</key>
 	<string>Symbol List: Classes</string>
 	<key>scope</key>
-	<string>source.cs entity.name.class</string>
+	<string>entity.name.class.cs, entity.name.struct.cs</string>
 	<key>settings</key>
 	<dict>
 		<key>showInSymbolList</key>
